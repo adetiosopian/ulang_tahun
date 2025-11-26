@@ -159,7 +159,7 @@ onMounted(() => {
         <!-- Rotasi: 1 derajat positif, Z-index: 20 (cukup di tengah) -->
         <div class="photo-card bg-white rounded-xl shadow-xl overflow-hidden m-4 rotate-1 z-20">
             <img 
-                src="../assets/DSC07732.jpg" 
+                src="../assets/DSC07732.JPG" 
                 alt="Foto Kenangan 1" 
                 class="w-full h-48 object-cover"
                 onerror="this.onerror=null;this.src='https://placehold.co/600x400/94A3B8/ffffff?text=Foto+Gagal+Dimuat';"
@@ -176,7 +176,7 @@ onMounted(() => {
         <!-- Rotasi: 3 derajat negatif, Z-index: 10 (agak di bawah), Margin-top negatif untuk overlapping -->
         <div class="photo-card bg-white rounded-xl shadow-xl overflow-hidden m-4 -rotate-3 z-10 -mt-8 sm:mt-0">
             <img 
-                src="../assets/IMG_7731.jpg" 
+                src="../assets/IMG_7731.JPG" 
                 alt="Foto Kenangan 2" 
                 class="w-full h-48 object-cover"
                 onerror="this.onerror=null;this.src='https://placehold.co/600x400/94A3B8/ffffff?text=Foto+Gagal+Dimuat';"
@@ -193,7 +193,7 @@ onMounted(() => {
         <!-- Rotasi: 6 derajat positif, Z-index: 30 (paling atas di baris ini), Margin-left positif di mobile -->
         <div class="photo-card bg-white rounded-xl shadow-xl overflow-hidden m-4 rotate-6 z-30 ml-8 sm:ml-0">
             <img 
-                src="../assets/IMG_2546 (1).jpg" 
+                src="../assets/IMG_2546 (1).JPG" 
                 alt="Foto Kenangan 3" 
                 class="w-full h-48 object-cover"
                 onerror="this.onerror=null;this.src='https://placehold.co/600x400/94A3B8/ffffff?text=Foto+Gagal+Dimuat';"
@@ -210,7 +210,7 @@ onMounted(() => {
         <!-- Rotasi: 1 derajat negatif, Z-index: 20, Margin-top negatif kuat untuk overlapping vertikal -->
         <div class="photo-card bg-white rounded-xl shadow-xl overflow-hidden m-4 -rotate-1 z-20 -mt-10 sm:mt-0">
             <img 
-                src="../assets/IMG_2831.jpg" 
+                src="../assets/IMG_2831.JPG" 
                 alt="Foto Kenangan 4" 
                 class="w-full h-48 object-cover"
                 onerror="this.onerror=null;this.src='https://placehold.co/600x400/94A3B8/ffffff?text=Foto+Gagal+Dimuat';"
@@ -238,7 +238,7 @@ onMounted(() => {
         <!-- Rotasi: 6 derajat negatif, Z-index: 40 (paling atas), Margin-top negatif untuk overlapping -->
         <div class="photo-card bg-white rounded-xl shadow-xl overflow-hidden m-4 -rotate-6 z-40 -mt-8 sm:mt-0">
             <img 
-                src="../assets/DSC00380.jpg" 
+                src="../assets/DSC00380.JPG" 
                 alt="Foto Kenangan 6" 
                 class="w-full h-48 object-cover"
                 onerror="this.onerror=null;this.src='https://placehold.co/600x400/94A3B8/ffffff?text=Foto+Gagal+Dimuat';"
