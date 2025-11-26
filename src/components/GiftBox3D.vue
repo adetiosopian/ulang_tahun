@@ -9,7 +9,7 @@ import { onMounted, ref } from 'vue'
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import { useRouter } from 'vue-router'
-import fotoImg from '../assets/IMG_1705.jpg'
+import fotoImg from '../assets/IMG_1705.JPG'
 import fotoImg1 from'../assets/pita.png'
 const router = useRouter()
 
